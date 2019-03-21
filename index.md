@@ -1,5 +1,7 @@
 # 个人信息
-                   
+  
+<img src="https://Latepen.github.io/meme.jpg" width = "160" height = "200" />  
+   
 姓名：邱红理
 
 学历：本科
@@ -11,7 +13,6 @@
 邮箱：173905493@qq.com
 
 地址：中山大道西88号文雅阁
-
 # 最新消息
 
 消息：暂无

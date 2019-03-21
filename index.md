@@ -1,6 +1,6 @@
 # 个人信息
   
-<img src="https://Latepen.github.io/meme.jpg" width = "160" height = "200" />  
+<img src="https://Latepen.github.io/meme.jpg" width = "150" height = "200" />  
    
 姓名：邱红理
 

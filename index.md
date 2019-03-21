@@ -33,6 +33,3 @@ CSDN(ID):weixin_44772245
 - 我的亚索打破了我的0-15的记录
 
 - 用了半天时间把这个主页做好了
-
-
-<img src="https://Latepen.github.io/652b2e908fc9ff04-48db09128871cbb3-2924e3335e6e45b225696124b8e26a28.jpg" width="400"/> </div>
